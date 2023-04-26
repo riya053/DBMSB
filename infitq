@@ -3,3 +3,5 @@ excersice 8
 Select Prodid,Pdesc,Category,Discount from Product where PdeSc Is NULL
 excersice 9
 Select prodid,pdesc,category,discount from product where category='Apparel' and discount>'5'
+excersice 14
+select Distinct category from product
