@@ -1,0 +1,5 @@
+ddlpart 1
+excersice 8
+Select Prodid,Pdesc,Category,Discount from Product where PdeSc Is NULL
+excersice 9
+Select prodid,pdesc,category,discount from product where category='Apparel' and discount>'5'
